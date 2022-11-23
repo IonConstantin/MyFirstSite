@@ -168,7 +168,7 @@ ul li a:hover {
 }
 
 .card img {
-  width: 90%;
+  width: 80%;
   border: var(--chenar);
 }
 .card img:hover {
