@@ -69,7 +69,7 @@ p {
 
 header {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   background: var(--tricolor);
   padding: 2px;
